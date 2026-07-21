@@ -59,7 +59,7 @@ export const aboutContent = {
 export const achievementsContent = {
   stats: [
     { value: "92%", label: "Placement Rate" },
-    { value: "₹52 LPA", label: "Highest Package" },
+    { value: "₹53 LPA", label: "Highest Package" },
     { value: "150+", label: "Companies Visit" },
     { value: "850+", label: "Total Offers" },
   ],
